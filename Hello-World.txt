@@ -7,7 +7,7 @@
 <body>
     <script>
     var greet = "Hello World! This file is new";
-    document.write(greet); // Prints: Hello World!
+    document.write(greet); // Prints: Hello World! My first webpage
     </script>
 </body>
 </html>
