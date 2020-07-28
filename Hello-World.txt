@@ -6,6 +6,7 @@
 </head>
 <body>
     <script>
+    var name = "Prabhat", age = 27, isMarried = false;
     var greet = "Hello World! This file is new";
     document.write(greet); // Prints: Hello World! My first webpage
     </script>
