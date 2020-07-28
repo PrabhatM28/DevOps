@@ -6,7 +6,7 @@
 </head>
 <body>
     <script>
-    var greet = "Hello World!";
+    var greet = "Hello World! This file is new";
     document.write(greet); // Prints: Hello World!
     </script>
 </body>
